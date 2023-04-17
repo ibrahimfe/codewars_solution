@@ -9,34 +9,30 @@ To run these solutions locally, you will need to have Python installed on your m
 
 Once you have Python installed, you can download the solutions from this repository using Git:
 
-bash
-
-git clone https://github.com/<your-username>/codewars_solution.git
+    'git clone https://github.com/<your-username>/codewars_solution.git'
 
 Then, navigate to the codewars_solution directory and run the Python files to see the solutions in action.
 ## Structure
 
 The solutions are organized by difficulty level and kata name. Each kata has its own directory, which contains the solution file (solution.py) and any necessary input files.
 
-css
-
-codewars_solution/
-├── 7-kyu/
-│   ├── kata-name/
-│   │   ├── solution.py
-│   │   └── input.txt
-│   └── ...
-├── 6-kyu/
-│   ├── kata-name/
-│   │   ├── solution.py
-│   │   └── input.txt
-│   └── ...
-├── 5-kyu/
-│   ├── kata-name/
-│   │   ├── solution.py
-│   │   └── input.txt
-│   └── ...
-└── ...
+  codewars_solution/
+  ├── 7-kyu/
+  │   ├── kata-name/
+  │   │   ├── solution.py
+  │   │   └── input.txt
+  │   └── ...
+  ├── 6-kyu/
+  │   ├── kata-name/
+  │   │   ├── solution.py
+  │   │   └── input.txt
+  │   └── ...
+  ├── 5-kyu/
+  │   ├── kata-name/
+  │   │   ├── solution.py
+  │   │   └── input.txt
+  │   └── ...
+  └── ...
 
 ## Contributing
 

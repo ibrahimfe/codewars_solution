@@ -1,5 +1,5 @@
 # The One-Liner as Always
-def sum_dig_pow(a, b):
+def sum_dig_poww(a, b):
     return [
         i
         for i in range(a, b + 1)

@@ -1,5 +1,4 @@
 def digital_root(n):
-    number = str(n)
-    while len(number) > 1:
-        number = str(sum(int(i) for i in number))
-    return int(number)
+    if n < 10:
+        return n
+    return digital_root(sum(map(int, str(n))))

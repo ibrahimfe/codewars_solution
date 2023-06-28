@@ -40,5 +40,3 @@ If you find a mistake in one of my solutions or have a more efficient solution, 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Of course, feel free to modify this README.md file to fit your own personal style and preferences.
